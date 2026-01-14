@@ -30,7 +30,8 @@ This will generate the processed NSD data needed for training.
 Train the fMRI-text-image contrastive alignment model:
 
 ```bash
-source script/train_contrastive_nsd.sh
+cd ..
+source train_contrastive_nsd.sh
 ```
 
 ## Architecture
